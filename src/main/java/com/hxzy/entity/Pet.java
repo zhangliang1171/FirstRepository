@@ -11,5 +11,6 @@ public class Pet {
 	public static void main(String[] args) {
 		System.out.println("宠物");
 		System.out.println("qqqq");
+		System.out.println("新分支");
 	}
 }

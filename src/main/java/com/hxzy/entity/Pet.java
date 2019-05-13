@@ -10,5 +10,6 @@ package com.hxzy.entity;
 public class Pet {
 	public static void main(String[] args) {
 		System.out.println("宠物");
+		System.out.println("qqqq");
 	}
 }
